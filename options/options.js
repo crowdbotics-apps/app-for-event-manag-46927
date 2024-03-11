@@ -1,10 +1,11 @@
 export const globalOptions = {
-  name: "app-for-event-manag-46927",
-  url: "https://app-for-event-manag-46927.botics.co",
-  api: "https://app-for-event-manag-46927.botics.co/api/v1",
-  screenOptions: {
-    headerShown: false
-  }
+  "name": "app-for-event-manag-46927",
+  "url": "https://app-for-event-manag-46927.botics.co",
+  "api": "https://app-for-event-manag-46927.botics.co/api/v1",
+  "screenOptions": {
+    "headerShown": false
+  },
+  "initialRoute": "welcome"
 };
 export const modulesOptions = {
   "@modules/app-menu": {
